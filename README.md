@@ -39,8 +39,8 @@
 
 - When a big player of a company wants to unload shares, he'll wait for the company to announce some good news because that is it the time when a lot of people will be placing orders, thus the only time when his order will go through. Thus, it might so happen that despite the company announcing good news, the share price may go down. Thus, it's helpful to know what the inistitutional ownership of that share is (for example, how many mutual funds, hedge funds, etc. own that share)
 - Don't sell at the support line or resistance line. Buy the stock above the support line and sell it below the resistance line. This ensures that you are ahead of the general market.
-- ![Evening/ Morning DojiStar](/Users/yashgandhe/Yash-Files/res/1.jpg) Here, after the stock goes down, and the candlestick is a Doji, and then it goes up, this is a trend reversal, because at the Doji there was indecision and then the stock started moving up.
-- ![Bearish/Bullish Harami](/Users/yashgandhe/Yash-Files/res/2.jpg) In Bearish Harami, there is trend reversal.
+- ![Evening/ Morning DojiStar](res/1.jpg) Here, after the stock goes down, and the candlestick is a Doji, and then it goes up, this is a trend reversal, because at the Doji there was indecision and then the stock started moving up.
+- ![Bearish/Bullish Harami](res/2.jpg) In Bearish Harami, there is trend reversal.
   - Bearish: Market is going down
   - Bullish: Market is going up
--  ![Stronger](/Users/yashgandhe/Yash-Files/res/3.jpg) This pattern is stronger indicator than a Doji because here, there isn't an indecision. Here in the above figure, at the end of the day, we have a clear indicator that sellers have started to win because of the same opening and closing price.
+-  ![Stronger](res/3.jpg) This pattern is stronger indicator than a Doji because here, there isn't an indecision. Here in the above figure, at the end of the day, we have a clear indicator that sellers have started to win because of the same opening and closing price.
