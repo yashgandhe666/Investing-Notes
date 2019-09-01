@@ -31,9 +31,19 @@
 
 **Being Flat**: Having no position in a particular stock. Sometimes it is good to not trade.
 
+**Volume**: Volume drives the prices up or down. If the share prices increase or decrease without any significant change in volume, it will most likely swing back to the original price.
 
+## Indicators:
 
+**Bollinger Bands**: Gives you a range in which the stock price is most likely to fluctuate.
+The concept of Bollinger bands is based on Standard Deviation. That's why, when the stock prices are not fluctuating, the bands narrow down and when the prices change suddenly, the band widens to accomodate for the standard deviation.
+This strategy cannot be used always. We can only use it on **mean-reverting stocks**.
 
+**[Relative Strength Indicator(RSI)](https://www.investopedia.com/terms/r/rsi.asp)**: If the indicator is closer to the 100% mark, then the stock is overbought and vice versa for oversold. Between the 30% and 70% is the sweet spot.
+
+![Oversold/ Overbought](res/4.jpg) When the stock crosses the 70% mark and is classified as overbought, the moment it crosses the 70% mark with the momentum reversed is when we should short the stock. A strategy like this won't work on a Biotech firm or any other firm which isn't a mean reversal firm. What that means is, a Biotech firm might drop a new patent, or get FDA approval which will increase the stock price.
+
+**Average True Range(ATR)**: This indicator is a measure of how much a stock will go up or down. This helps predict the maximum profit you might make out of a buy/sell trade. Basically a measure of how much the price moves up/down over a period.
 
 ## Miscellaneous Points:
 
