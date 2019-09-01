@@ -88,3 +88,10 @@ position size = (Max loss per trade (as mentioned earlier, 2% of total capital))
 
 - This pattern is stronger indicator than a Doji because here, there isn't an indecision. Here in the above figure, at the end of the day, we have a clear indicator that sellers have started to win because of the same opening and closing price.
 ![Stronger](res/3.jpg)
+
+
+
+References:
+- [The Complete Foundation Stock Trading Course, Mohsen Hassan, MTG Team
+](https://www.udemy.com/course/foundation-course/)
+- [Investopedia](https://www.investopedia.com/)
