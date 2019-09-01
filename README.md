@@ -45,12 +45,46 @@ This strategy cannot be used always. We can only use it on **mean-reverting stoc
 
 **Average True Range(ATR)**: This indicator is a measure of how much a stock will go up or down. This helps predict the maximum profit you might make out of a buy/sell trade. Basically a measure of how much the price moves up/down over a period.
 
+## Risk Management:
+
+- **Risk Acceptance**: You are at a risk when you just hold stocks for a company. There is a chance that the company might go bankrupt, leading to a loss of all the investment.
+
+- **Risk Avoidance**: By not participating in a trade, you are avoiding the risk to save on the losses.
+
+- **Risk Limitation**: You can limit your losses by saying that if the stock goes below, say 20% of it's current price, I'm going to take the loss and get out.
+**Stop Loss Order** can be set by checking out the resistance and support levels. So, we can put a stop loss below the support level, so that if the stock price plummets, out stop loss order is automatically issued and the stock is sold.
+
+- **Risk Transferance** (Advanced topic)
+
+## Money Management:
+
+Logically, if you make a loss from a trade, it is much more difficult to get back to the earlier principal amount, because after the loss, the principal amount has reduced. **General rule of thumb**: Risk per position should not exceed 5%. Keep it around 2%.
+**NOTE**: Stick to your rule of stop losses. If the stock price goes below the set stop loss, take the loss and sell it. Always stick to the rule you've set.
+
+## Position Sizing:
+This is a measure of how many stocks you should buy in any given trade, to minimize your losses if the price plummets.
+
+**Simple Position Sizing**: 
+position size = (Max loss per trade (as mentioned earlier, 2% of total capital))/ (amount you can lose per share (buy price - stop loss))
+
+
+
+### Important Metrics:
+
+**Batting Average**: Number of profitable trades/ Total number of trades by the trader. This will be a measure of how good the trader is at predicting the market movement.
+
+**Win/Loss Ratio**: The ratio of the average profitable trades over the average unprofitable trades.
+
+
 ## Miscellaneous Points:
 
 - When a big player of a company wants to unload shares, he'll wait for the company to announce some good news because that is it the time when a lot of people will be placing orders, thus the only time when his order will go through. Thus, it might so happen that despite the company announcing good news, the share price may go down. Thus, it's helpful to know what the inistitutional ownership of that share is (for example, how many mutual funds, hedge funds, etc. own that share)
 - Don't sell at the support line or resistance line. Buy the stock above the support line and sell it below the resistance line. This ensures that you are ahead of the general market.
-- ![Evening/ Morning DojiStar](res/1.jpg) Here, after the stock goes down, and the candlestick is a Doji, and then it goes up, this is a trend reversal, because at the Doji there was indecision and then the stock started moving up.
-- ![Bearish/Bullish Harami](res/2.jpg) In Bearish Harami, there is trend reversal.
-  - Bearish: Market is going down
-  - Bullish: Market is going up
--  ![Stronger](res/3.jpg) This pattern is stronger indicator than a Doji because here, there isn't an indecision. Here in the above figure, at the end of the day, we have a clear indicator that sellers have started to win because of the same opening and closing price.
+- Here, after the stock goes down, and the candlestick is a Doji, and then it goes up, this is a trend reversal, because at the Doji there was indecision and then the stock started moving up.![Evening/ Morning DojiStar](res/1.jpg)
+- In Bearish Harami, there is trend reversal.
+  * Bearish: Market is going down
+  * Bullish: Market is going up
+![Bearish/Bullish Harami](res/2.jpg)
+
+- This pattern is stronger indicator than a Doji because here, there isn't an indecision. Here in the above figure, at the end of the day, we have a clear indicator that sellers have started to win because of the same opening and closing price.
+![Stronger](res/3.jpg)
