@@ -90,8 +90,22 @@ position size = (Max loss per trade (as mentioned earlier, 2% of total capital))
 ![Stronger](res/3.jpg)
 
 
+## Trading Strategies: 
 
-References:
+- **Momentum**: This is generally used when there is low institutional ownership in the stock (or high retail -> generally refers to individual and small time traders who will push the stock price when it is going up and push it down when it's already going down.
+- **Mean Reversion**: This is generally used when the institutional ownership of the stock is high. Institutions generally unload the stock when the price is high and buy in bulks when it's price is low.
+
+## Market Efficiency:
+
+- **Weak Efficiency**: Claims that all the past prices of the stock are reflected in the current price of the stock, so technical analysis cannot be used.
+- **Semi-Strong Efficiency**: Cannot use historical prices, or even fundamentals, so neither technical nor fundamental analysis can be used.
+- **Strong Efficiency**: Cannot use technical, fundamental analysis, or even private information.
+
+## Liquidity:
+Describes the degree to which an aseet or security can be bought or sold without affecting the asset's price. Just check the average volume of the stock(generally computed for the last 3 months)
+- When market is passive, that is the players bid passively, i.e. they buy at the bid price and sell at the ask, the market becomes more liquid.
+
+## References:
 - [The Complete Foundation Stock Trading Course, Mohsen Hassan, MTG Team
 ](https://www.udemy.com/course/foundation-course/)
 - [Investopedia](https://www.investopedia.com/)
