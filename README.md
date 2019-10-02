@@ -1,5 +1,4 @@
-# Stock Course Notes
-
+# Technical Analysis
 
 ## Types of Orders:
 - **Market Order**: Buy/sell immediately
@@ -105,7 +104,23 @@ position size = (Max loss per trade (as mentioned earlier, 2% of total capital))
 Describes the degree to which an aseet or security can be bought or sold without affecting the asset's price. Just check the average volume of the stock(generally computed for the last 3 months)
 - When market is passive, that is the players bid passively, i.e. they buy at the bid price and sell at the ask, the market becomes more liquid.
 
-## References:
+# Fundamental Analysis:
+
+## [Balance Sheet](https://in.finance.yahoo.com/):
+Assets = Liabilities + Equity **ALWAYS**
+
+## Income Statement:
+Gives Total Revenue and the Total Expenses for the company. EPS(Earnings per share) is calculated from this.
+
+## Cash Flow Statement:
+This is important, because for instance, a company might sell off a property which would increase their revenue by a lot leading to an increase in EPS. We as investors don't want to be fooled by such a non-recurring event. So, we have to look into the Cash Flow Statement.
+It is divided into 3 parts:
+- Core Operations cost
+- Investing Component
+- Financing Component
+
+
+# References:
 - [The Complete Foundation Stock Trading Course, Mohsen Hassan, MTG Team
 ](https://www.udemy.com/course/foundation-course/)
 - [Investopedia](https://www.investopedia.com/)
